@@ -8,3 +8,6 @@
 2. [TestConfusionMatrixDuringTraining](https://github.com/john-fante/my-tensorflow-custom-callbacks/blob/main/TestClassificationReportDuringTraining.py)
    * Sample screenshot
 <img width="550" alt="bandini custom callbacks" src="https://github.com/john-fante/my-tensorflow-custom-callbacks/assets/50263592/97ea3e4e-5cc1-44ba-b2ab-16c294bd60c2">
+
+3. [ModelSaveEachEpoch](https://github.com/john-fante/my-tensorflow-custom-callbacks/blob/main/ModelSaveEachEpoch.py) - used for saving models for each epoch
+
